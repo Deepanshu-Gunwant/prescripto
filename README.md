@@ -20,25 +20,26 @@ Prescripto is a full-stack doctor appointment system that streamlines patient on
 ### 🏠 Homepage
 | Home 1 | Home 2 |
 |--------|--------|
-| ![Homepage 1](./homepage_1.png) | ![Homepage 2](./homepage_2.png) |
+| ![Homepage 1](./screenshots/homepage_1.png) | ![Homepage 2](./screenshots/homepage_2.png) |
 | Home 3 | Home 4 |
-| ![Homepage 3](./homepage_3.png) | ![Homepage 4](./homepage_4.png) |
+| ![Homepage 3](./screenshots/homepage_3.png) | ![Homepage 4](./screenshots/homepage_4.png) |
 | Home 5 |
-| ![Homepage 5](./homepage_5.png) |
+| ![Homepage 5](./screenshots/homepage_5.png) |
 
 ---
 
 ### 🩺 Doctor Dashboard
 | Doctor Dashboard |
 |------------------|
-| ![Doctor Dashboard](./doctor-dashboard.png) |
+| ![Doctor Dashboard](./screenshots/doctor-dashboard.png) |
 
 ---
 
 ### 🛠️ Admin Dashboard
 | Admin 1 | Admin 2 |
 |---------|---------|
-| ![Admin Dashboard 1](./admin-dashboard_1.png) | ![Admin Dashboard 2](./admin-dashboard_2.png) |
+| ![Admin Dashboard 1](./screenshots/admin-dashboard_1.png) | ![Admin Dashboard 2](./screenshots/admin-dashboard_2.png) |
+
 
 ---
 
