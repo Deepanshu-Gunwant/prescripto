@@ -59,7 +59,6 @@ Prescripto is a full-stack doctor appointment system that streamlines patient on
 **Others:**
 - Razorpay & Stripe (Payments)
 - Cloudinary (Image Uploads)
-- Vercel (Deployment)
 
 ---
 
