@@ -77,7 +77,6 @@ npm run server
 
 # Run client (in another terminal)
 npm start
----
 
-## 👨‍💻 Developer  
+👨‍💻 Developer
 Made with 💙 by Deepanshu Gunwant
