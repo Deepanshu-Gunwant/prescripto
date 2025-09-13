@@ -140,5 +140,7 @@ vite.config.ts.timestamp-*
 # Ignore all env files
 *.env
 *.env.local
+.env
+
 
 
