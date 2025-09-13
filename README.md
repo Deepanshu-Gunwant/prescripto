@@ -81,13 +81,14 @@ npm start
 
 ---
 
-## 👨‍💻 Developer  
-
-Made with 💙 by **[Deepanshu Gunwant](https://github.com/Deepanshu-Gunwant)**  
-
 🌐 **Live Projects:**  
 - User App – [https://prescripto-frontend-livid-ten.vercel.app/](https://prescripto-frontend-livid-ten.vercel.app/)  
-- Admin Dashboard – [https://prescripto-admin-sage.vercel.app/](https://prescripto-admin-sage.vercel.app/)  
+- Admin Dashboard – [https://prescripto-admin-sage.vercel.app/](https://prescripto-admin-sage.vercel.app/)
+
+## 👨‍💻 Developer  
+
+Made with 💙 by **[Deepanshu Gunwant](https://github.com/Deepanshu-Gunwant)** 
 
 ---
+
 
